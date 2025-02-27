@@ -1,3 +1,5 @@
+# Cones pairing in the 'cones' branch. Use 'git checkout cones'.
+
 OpenSfM ![Docker workflow](https://github.com/mapillary/opensfm/workflows/Docker%20CI/badge.svg)
 =======
 
